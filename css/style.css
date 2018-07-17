@@ -1,0 +1,21 @@
+body{
+    background-image: url("http://www.wallpapers4u.org/wp-content/uploads/mountain_ice_rock_cold_clouds_26385_1920x1080.jpg");
+}
+.row1{
+    margin-left: 5%;
+    color: red;
+    font-family: 'Knewave', cursive;
+}
+.row2{
+    margin-left: 40%; 
+    
+}
+.row3{
+    margin-left: 80%;
+    margin-top: -3%;
+    font-family: 'Knewave', cursive;
+    margin-bottom: 20%;
+}
+.row4{
+    margin-left:40%;
+}
