@@ -3,19 +3,29 @@ body{
 }
 .row1{
     margin-left: 5%;
-    color: red;
+    color:white;
     font-family: 'Knewave', cursive;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Bungee Inline', cursive;
 }
 .row2{
-    margin-left: 40%; 
-    
+    margin-left: 40%;
+    font-family: 'Knewave', cursive;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Bungee Inline', cursive;
 }
 .row3{
     margin-left: 80%;
     margin-top: -3%;
     font-family: 'Knewave', cursive;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Bungee Inline', cursive;
     margin-bottom: 20%;
 }
 .row4{
     margin-left:40%;
+    font-size: 350%;
+    font-family: 'Knewave', cursive;
+    font-family: 'Tangerine', cursive;
+    color:white
 }
