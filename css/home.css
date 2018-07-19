@@ -1,14 +1,6 @@
 body{
     background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Green-Grass-Field-Wallpaper.jpg");
 }
-#p{
-    margin-left: 1%;
-    height: 20em;
-    border-style: solid;
-    border-width: 20px;
-    border-color: white;
-    box-shadow: 0 0 10px 10px #f2f2f2;
-}
 .row6{
     margin-left: 30%;
 }
